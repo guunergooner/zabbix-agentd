@@ -8,3 +8,7 @@
 
 * restart zabbix-agentd
   - bash restart.sh
+
+* docker
+  - build image
+  - build container
